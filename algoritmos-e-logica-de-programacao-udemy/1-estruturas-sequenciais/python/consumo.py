@@ -13,7 +13,7 @@ distancia_percorrida = float(input("Distância percorrida (km) | "))
 combustivel_gasto = float(input("Combustível gasto (L) | "))
 
 # Calculando
-consumo_medio = distancia_percorrida / combustivel_gasto
+consumo_medio = combustivel_gasto / distancia_percorrida
 
 # Exibindo resultado
 print("\nConsumo médio | {:.2f}".format(consumo_medio))
