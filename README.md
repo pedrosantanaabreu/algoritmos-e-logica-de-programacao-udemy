@@ -13,9 +13,9 @@ Todos os exercícios e anotações das aulas do curso "Algoritmos e Lógica de P
 ![Linux](	https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 ## 🛠 Capítulos
-- Estruturas sequenciais
-- Estruturas condicionais
-- Estruturas repetitivas
+- [Estruturas sequenciais](https://github.com/pedrosantanaabreu/algoritmos-e-logica-de-programacao-udemy/tree/main/algoritmos-e-logica-de-programacao-udemy/1-estruturas-sequenciais/python)
+- [Estruturas condicionais](https://github.com/pedrosantanaabreu/algoritmos-e-logica-de-programacao-udemy/tree/main/algoritmos-e-logica-de-programacao-udemy/2-estruturas-condicionais/python)
+- [Estruturas repetitivas](https://github.com/pedrosantanaabreu/algoritmos-e-logica-de-programacao-udemy/tree/main/algoritmos-e-logica-de-programacao-udemy/3-estruturas-repetitivas/python)
 - Vetores
 - Matriz
 
